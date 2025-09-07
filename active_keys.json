@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "created": "2025-09-07 21:20:58.521886",
+    "version": "1.0",
+    "author": "Samir3632",
+    "system": "Sally Pure",
+    "total_keys": 1,
+    "last_updated": "2025-09-07 21:21:20.498969"
+  },
+  "keys": {
+    "SALLY-424B5C50-9D9D86A6": {
+      "username": "samir36",
+      "created": "2025-09-07 21:21:20",
+      "expires": "2025-09-08 21:21:20",
+      "type": "1",
+      "status": "active",
+      "uses": 0,
+      "last_used": null,
+      "last_ip": null,
+      "created_by": "Samir3632"
+    }
+  }
+}
