@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "created": "2025-09-07 16:50:55.070029",
+    "version": "1.0",
+    "author": "Samir3632",
+    "system": "Sally Pure",
+    "total_keys": 4,
+    "last_updated": "2025-09-07 16:50:59.812198"
+  },
+  "keys": {
+    "SALLY-DEMO-1234": {
+      "username": "demo_user",
+      "created": "2025-01-07 21:23:28",
+      "expires": "2025-12-31 23:59:59",
+      "type": "demo",
+      "status": "active",
+      "uses": 0,
+      "last_used": null,
+      "last_ip": null,
+      "created_by": "Samir3632"
+    },
+    "SALLY-TEST-5678": {
+      "username": "test_user",
+      "created": "2025-01-07 21:23:28",
+      "expires": "2025-12-31 23:59:59",
+      "type": "premium",
+      "status": "active",
+      "uses": 0,
+      "last_used": null,
+      "last_ip": null,
+      "created_by": "Samir3632"
+    },
+    "SALLY-PREMIUM-9999": {
+      "username": "samir3632",
+      "created": "2025-01-07 21:23:28",
+      "expires": "2026-01-07 21:23:28",
+      "type": "lifetime",
+      "status": "active",
+      "uses": 0,
+      "last_used": null,
+      "last_ip": null,
+      "created_by": "Samir3632"
+    },
+    "SALLY-E1549C30-490A7FD7": {
+      "username": "x",
+      "created": "2025-09-07 16:50:59",
+      "expires": "2025-09-08 16:50:59",
+      "type": "1",
+      "status": "active",
+      "uses": 0,
+      "last_used": null,
+      "last_ip": null,
+      "created_by": "Samir3632"
+    }
+  }
+}
